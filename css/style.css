@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "neon";
+    src:url("NEON____.TTF");
+}
+.wwm {
+    color: blue;
+    text-align: center;
+    font-family: "neon";
+}
+.lamp {
+    cursor: pointer;
+    /*margin-bottom: 100px;*/
+    width: 90px;
+    height: 45px;
+}
+
+#oskol {
+    cursor: pointer;
+    width: 60px;
+    height: 60px;
+}
+tr, td {
+    padding: 1px;
+}
+html {
+    background-color: #222222;
+}
+
+table{
+    margin: auto;
+    width: 50%; !important
+}
